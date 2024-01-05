@@ -1,6 +1,6 @@
 token:
   expiration_time: 86400000
-  secret: user_token_ecommerce
+  secret: my-token
 
 gateway:
   ip: 220.75.198.105
